@@ -3,5 +3,5 @@ layout: post
 title: "testtt"
 date: 2012-02-15 10:52
 comments: true
-categories: 
+categories: new
 ---
