@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[I can be a lot of things but i can't be relaxed]]></title>
+  <title><![CDATA[I can be a lot of things]]></title>
   <link href="http://pure-cloud-3246.heroku.com//atom.xml" rel="self"/>
   <link href="http://pure-cloud-3246.heroku.com//"/>
-  <updated>2012-02-17T00:10:47+01:00</updated>
+  <updated>2012-02-17T00:13:46+01:00</updated>
   <id>http://pure-cloud-3246.heroku.com//</id>
   <author>
     <name><![CDATA[Goran Ojkic]]></name>
