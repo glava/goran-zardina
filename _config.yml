@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://pure-cloud-3246.heroku.com/
+title: I can be a lot of things but i can't be relaxed
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Goran Ojkic
 simple_search: http://google.com/search
 description:
 
