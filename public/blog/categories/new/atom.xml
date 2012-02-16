@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[I can be a lot of things but i can't be relaxed]]></title>
-  <link href="http://pure-cloud-3246.heroku.com//atom.xml" rel="self"/>
+  <title><![CDATA[Category: new | I can be a lot of things but i can't be relaxed]]></title>
+  <link href="http://pure-cloud-3246.heroku.com//blog/categories/new/atom.xml" rel="self"/>
   <link href="http://pure-cloud-3246.heroku.com//"/>
   <updated>2012-02-17T00:01:50+01:00</updated>
   <id>http://pure-cloud-3246.heroku.com//</id>
@@ -19,15 +19,6 @@
     <updated>2012-02-15T10:52:00+01:00</updated>
     <id>http://pure-cloud-3246.heroku.com//blog/2012/02/15/testtt</id>
     <content type="html"><![CDATA[<p>Check! Check! Check it out!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Snow]]></title>
-    <link href="http://pure-cloud-3246.heroku.com//blog/2012/02/15/snow/"/>
-    <updated>2012-02-15T10:42:00+01:00</updated>
-    <id>http://pure-cloud-3246.heroku.com//blog/2012/02/15/snow</id>
-    <content type="html"><![CDATA[<p>Ha bad weather for me is usually excuse to just sit down and enjoy experimenting with new stuff. Octupus looks like fun!</p>
 ]]></content>
   </entry>
   
