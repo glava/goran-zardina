@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://pure-cloud-3246.heroku.com//blog/2012/02/15/snow/</loc>
-        <lastmod>2012-04-25T10:42:17+02:00</lastmod>
+        <lastmod>2012-04-27T09:37:37+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://pure-cloud-3246.heroku.com//blog/2012/04/27/solr-power/</loc>
+        <lastmod>2012-04-27T09:37:11+02:00</lastmod>
     </url>
     <url>
         <loc>http://pure-cloud-3246.heroku.com//blog/archives/</loc>
-        <lastmod>2012-04-25T10:42:17+02:00</lastmod>
+        <lastmod>2012-04-27T09:37:37+02:00</lastmod>
     </url>
     <url>
         <loc>http://pure-cloud-3246.heroku.com//</loc>
-        <lastmod>2012-04-25T10:42:17+02:00</lastmod>
+        <lastmod>2012-04-27T09:37:37+02:00</lastmod>
     </url>
 </urlset>
